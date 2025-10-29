@@ -1,7 +1,6 @@
 // src/app.tsx
 /** @jsx createElement */
 import { createElement } from './jsx-runtime';
-// ⚠️ Đảm bảo các file này tồn tại và export đúng tên.
 import { TestButton } from './test-button'; 
 import { Counter } from './counter';       
 import { TodoApp } from './todo-app';      
